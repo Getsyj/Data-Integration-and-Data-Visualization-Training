@@ -1,0 +1,9 @@
+OrderID,CustomerName,Email,Product,Quantity,PricePerUnit,OrderDate,Total Price
+1,Aarav Mehta,aarav.mehta@example.com,Laptop,2.0,55000.0,2025-07-01,110000.0
+2,Sanya Raj,SANYA.RAJ@GMAIL.COM,Mouse,1.0,500.0,2025-07-03,500.0
+3,Karthik Reddy,karthik123@example.com,Monitor,1.0,32000.0,2025-07-05,32000.0
+4,Aarav Mehta,aarav.mehta@example.com,Laptop,1.0,55000.0,2025-07-01,55000.0
+5,Anjali Kapoor,ANJALI.KAPOOR@YAHOO.COM,Keyboard,3.0,1500.0,2025-07-01,4500.0
+6,Aarav Mehta,aarav.mehta@example.com,Laptop,2.0,55000.0,2025-07-01,110000.0
+7,Riya Sen,,Tablet,1.0,25000.0,2025-07-10,25000.0
+8,Karthik Reddy,karthik123@example.com,Monitor,1.0,32000.0,2025-07-05,32000.0

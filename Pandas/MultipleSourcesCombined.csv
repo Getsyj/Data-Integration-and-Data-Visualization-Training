@@ -1,0 +1,17 @@
+,OrderID,Customer,Product,Quantity,UnitPrice,OrderDate,TotalAmount
+0,1,Alice,Laptop,1,1000,2024-01-31 00:00:00,1000
+1,2,Bob,Tablet,2,500,2024-02-29 00:00:00,1000
+2,3,Charlie,Laptop,1,1200,2024-03-31 00:00:00,1200
+3,4,Diana,Phone,3,300,2024-04-30 00:00:00,900
+4,5,Eve,Headphones,2,150,2024-05-31 00:00:00,300
+5,6,Frank,Laptop,2,1100,2024-02-29,2200
+6,7,Grace,Laptop,1,1050,2024-03-31,1050
+7,8,Hannah,Tablet,1,550,2024-04-30,550
+8,9,Ian,Phone,4,320,2024-05-31,1280
+9,10,Jack,Phone,2,330,2024-06-30,660
+10,11,Karen,Laptop,1,990,2024-03-01,990
+11,12,Leo,Headphones,2,180,2024-03-02,360
+12,13,Mona,Tablet,1,520,2024-03-03,520
+13,17,Quincy,Laptop,2,1200,2024-05-01 00:00:00,2400
+14,18,Rachel,Phone,3,340,2024-05-02 00:00:00,1020
+15,19,Steve,Tablet,1,580,2024-05-03 00:00:00,580

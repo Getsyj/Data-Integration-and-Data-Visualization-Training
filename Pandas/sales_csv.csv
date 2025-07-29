@@ -1,0 +1,6 @@
+OrderID,Customer,Product,Quantity,UnitPrice,OrderDate
+6,Frank,Laptop,2,1100,2024-02-29
+7,Grace,Laptop,1,1050,2024-03-31
+8,Hannah,Tablet,1,550,2024-04-30
+9,Ian,Phone,4,320,2024-05-31
+10,Jack,Phone,2,330,2024-06-30
